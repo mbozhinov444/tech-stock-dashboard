@@ -1,0 +1,12 @@
+pandas
+numpy
+yfinance
+streamlit
+sqlalchemy
+pyyaml
+matplotlib
+scikit-learn
+requests
+beautifulsoup4
+
+
